@@ -1,0 +1,5 @@
+### Stock price endpoint
+GET http://localhost:9000/stock/TSLA
+### Health endpoint
+GET http://localhost:9000/health
+
